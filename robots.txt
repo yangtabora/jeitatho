@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ekovahshi.vlastapolach.cz/sitemap.xml
